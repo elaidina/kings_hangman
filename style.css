@@ -34,7 +34,7 @@ img {
   height: 33.33vh;
 }
 svg {
-  height: 25vh;
+  height: 22vh;
 }
 
 h1 {
@@ -52,7 +52,7 @@ h1 {
     #ff512f
   ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
-  margin: 20px 0 0;
+  margin: 0;
   padding: 2rem;
   border: 2px solid black;
   box-shadow: 3px 5px 15px 5px rgba(0, 0, 0, 0.493);
