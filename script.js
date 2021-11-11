@@ -7,7 +7,7 @@ const finalMessage = document.getElementById('final-message');
 
 const figureParts = document.querySelectorAll('.figure-part');
 
-const words = ['Bořivoj I.',
+const words = ['borivoj',
 'spytihnev',
 'vratislav',
 'boleslav',
@@ -35,7 +35,7 @@ const words = ['Bořivoj I.',
 'leopold',
 'josef',
 'marie terezie',
-'františek',
+'frantisek',
 'tomas',
 'edvard',
 'emil',
